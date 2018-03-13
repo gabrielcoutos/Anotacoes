@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Anotacoes</string>
+    <string name="Logo">Logo</string>
+    <string name="salve">Salvar</string>
 </resources>
